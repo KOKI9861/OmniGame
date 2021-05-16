@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9086e1424a51c9940b2baf3481ac92e1, type: 3}
+  m_Name: ControllerSettings
+  m_EditorClassIdentifier: 
+  centerPos: {x: 0.27432966, y: 1.5104896, z: 0.040049553}
+  centerRot: {x: 0, y: -0.03773759, z: 0, w: 1}
+  hmdRot: {x: 0, y: 0.051973302, z: 0, w: 1}
