@@ -8,7 +8,11 @@
 
 
 
-## Omni
+## Virtuix Omni
+
+[Omniについて](https://www.ask-corp.jp/products/virtuix/vr-device/virtuix-omni.html)
+
+実際に遊んでいる様子👇
 
 <img src="img/omni.gif" width=50%>
 
